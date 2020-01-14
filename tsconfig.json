@@ -4,12 +4,14 @@
     "module": "commonjs",
     "moduleResolution": "node",
     "lib": [
-      "esnext"
+      "esnext", "dom"
     ],
     "types": [
       "node",
       "chai",
-      "mocha"
-    ]
+      "mocha",
+      "webpack-dev-server"
+    ],
+    "jsx": "react"
   }
 }

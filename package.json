@@ -20,11 +20,8 @@
   },
   "keywords": [
     "typescript",
-    "apigateway",
-    "http-proxy",
-    "lambda",
-    "aws-cdk",
-    "aws"
+    "react",
+    "d3"
   ],
   "devDependencies": {
     "@aws-cdk/assets": "1.17.1",
@@ -60,6 +57,7 @@
     "@types/mocha": "^5.2.7",
     "@types/node": "^10.14.10",
     "@types/node-fetch": "^2.5.3",
+    "@types/webpack-dev-server": "^3.9.0",
     "aws-cdk": "1.17.1",
     "babel-loader": "^8.0.6",
     "cdk-util": "github:theotherdmitrii/cdk-util#1.1.3",
